@@ -1,7 +1,7 @@
 const License = () => {
   return (
     <div>
-      Copyright 2021 Sagnik Biswas Permission is hereby granted, free of charge,
+      Copyright 2021 Ricky Shivdasani Permission is hereby granted, free of charge,
       to any person obtaining a copy of this software and associated
       documentation files (the "Software"), to deal in the Software without
       restriction, including without limitation the rights to use, copy, modify,
